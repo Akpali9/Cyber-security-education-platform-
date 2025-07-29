@@ -1,4 +1,4 @@
-# CyberAware - Frontend Application
+# Cyber security Education platform 
 
 A modern cybersecurity education platform designed to teach digital safety in just 10 days. Built for lecturers, staff, and students to learn essential cybersecurity skills through interactive modules and assessments.
 
