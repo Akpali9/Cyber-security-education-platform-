@@ -73,7 +73,7 @@ CyberAware is an educational platform that makes cybersecurity accessible to eve
 1. **Clone the repository**
    ```bash
    git clone [repository-url]
-   cd cyber-aware
+   cd cyber security education platform 
    ```
 
 2. **Install dependencies**
